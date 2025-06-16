@@ -24,7 +24,7 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyD6HQEkVF8vpTGlGCUgu4PkpXb2pyclXOo",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "snapimpact-pshe.firebaseapp.com",
   projectId: "snapimpact-pshe",
   storageBucket: "snapimpact-pshe.firebasestorage.app",
