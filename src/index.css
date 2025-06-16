@@ -157,7 +157,7 @@ button:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #899097; /* Dark gray */
+  background-color: #f8bfcf; /* Dark gray */
   padding: 1rem 2rem;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   color: white;
